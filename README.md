@@ -1,2 +1,2 @@
 # Landing-page-01
-Projeto ministrado por Alexandre Saints
+Projeto com a minha primeira Landing page ministrado por Alexandre Saints
